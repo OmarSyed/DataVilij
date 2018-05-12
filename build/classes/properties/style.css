@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 4, 2018, 3:27:51 AM
+    Author     : omars_000
+
+Omar Syed
+110484590
+*/
+
+.axis-tick-mark {
+    -fx-stroke: #637040;
+    -fx-stroke-width: 3; 
+}
+.axis-minor-tick-mark {
+    -fx-stroke: #859656;
+}
+.chart-vertical-grid-lines {
+    -fx-stroke: transparent;
+}
+
+.chart-horizontal-grid-lines {
+    -fx-stroke: transparent;
+}
+.chart-plot-background {
+    -fx-border-color: black;
+    -fx-border-width: 4px;
+    /*-fx-border-insets: -2px;*/
+}
+.chart-series-line {
+   -fx-stroke: null; 
+}
+
+#avg-line{
+    -fx-stroke: red;
+}
