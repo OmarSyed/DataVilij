@@ -7,4 +7,4 @@ This is a JavaFX framework for data visualization, which has the following funct
 5) Run a clustering algorithm to group various data points together
 
 # Demo
-
+<img src="https://i.imgur.com/GQkn3Wa.gif">
